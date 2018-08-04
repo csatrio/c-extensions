@@ -1,0 +1,6 @@
+build/
+venv/
+.idea/
+.vscode/
+*.code-workspace
+*.so
